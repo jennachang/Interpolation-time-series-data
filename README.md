@@ -30,3 +30,9 @@ You can install the necessary libraries with the following:
 
 ```bash
 pip install numpy pandas matplotlib scipy
+
+```
+
+### Sample Data: 
+1.**UK GDP**
+2.**UK CPI**
