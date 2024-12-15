@@ -1,5 +1,3 @@
-# Interpolation-time-series-data
-
 The motivation behind this repository comes from the need to simplify and clarify the application of time series interpolation methods. While researching time series analysis, I noticed there was a lack of easy-to-understand tutorials that explain interpolation techniques in a practical, real-world context. I decided to create this repository to fill that gap and offer a beginner-friendly explanation of three common interpolation methods—**linear**, **polynomial**, and **spline**. By using key macroeconomic indicators like **GDP** and **CPI** as sample data, I aim to provide a hands-on approach that not only explains the statistical rationale behind each method but also demonstrates their practical application through Python visualizations.
 
 # Time Series Interpolation Methods
