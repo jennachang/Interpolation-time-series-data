@@ -32,5 +32,5 @@ pip install numpy pandas matplotlib scipy
 ```
 
 ### Sample Data: 
-1.**UK GDP**
+1.**UK monthly GDP from Jan 2021 to Apr 2023**
 2.**UK CPI**
