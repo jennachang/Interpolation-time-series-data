@@ -22,12 +22,14 @@ To get started with this project, you will need to have Python installed along w
 - Python 3.x
 - Jupyter Notebook or another Python IDE
 - Required libraries:  
-  `numpy`, `pandas`, `matplotlib`, `scipy`
+  `numpy`, `pandas`, `matplotlib`, `scipy`, `datetime`
 
 You can install the necessary libraries with the following:
 
 ```bash
 pip install numpy pandas matplotlib scipy
+
+
 
 ```
 
