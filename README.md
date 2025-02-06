@@ -34,8 +34,8 @@ pip install numpy pandas matplotlib scipy
 ```
 
 ### Sample Data: 
-To demonstrate the application of time series interpolation techniques, I selected a set of key economic indices as sample data. These indices provide a comprehensive view of the UK economy, covering various dimensions such as growth, consumer sentiment, and inflation. The data used includes:<br />
-1.**UK GDP** (monthly data, spanning January 2021 to April 2023, sourced from the Bank of England), representing the economic output and overall health of the economy.<br />
-2.**UK CCI** (Consumer Confidence Index), reflecting consumer sentiment and expectations about the economy, a critical driver of consumption trends <br />
-3.**UK CPI**(Consumer Price Index), tracking inflation and the cost of living, which directly influences consumer behavior and purchasing power <br />
-4.**BoE Interest Rate** a significant macroeconomic indicator influencing borrowing costs and investment, included here as a reference point but not requiring interpolation. <br />
+To demonstrate the application of time series interpolation techniques, I selected a set of key economic indices as sample data. These indices provide a comprehensive view of the UK economy, covering various dimensions such as growth, consumer sentiment, and inflation. The data used includes:<br /><br />
+1.**UK GDP** (monthly data, spanning January 2021 to April 2023, sourced from the Bank of England), representing the economic output and overall health of the economy.<br /><br />
+2.**UK CCI** (Consumer Confidence Index), reflecting consumer sentiment and expectations about the economy, a critical driver of consumption trends <br /><br />
+3.**UK CPI**(Consumer Price Index), tracking inflation and the cost of living, which directly influences consumer behavior and purchasing power <br /><br />
+4.**BoE Interest Rate** a significant macroeconomic indicator influencing borrowing costs and investment, included here as a reference point but not requiring interpolation. <br /><br />
